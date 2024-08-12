@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Formula Finder</string>
+    <string-array name="topics_array">
+        <item>Rectangle</item>
+        <item>Triangle</item>
+        <item>Circle</item>
+        <item>Cylinder</item>
+        <item>Sphere</item>
+        <item>Parallelogram</item>
+        <item>Pythagorean Theorem</item>
+        <item>Slope Formula</item>
+
+    </string-array>
+</resources>
